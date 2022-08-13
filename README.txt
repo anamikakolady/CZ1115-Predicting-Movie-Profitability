@@ -8,6 +8,3 @@ Exploratory Data Analysis/Visualisation
 Machine Learning
 Random Forest
 Fine-Tuning Random Forest
-
-Slides.pptx:
-Slides used in our presentation.
