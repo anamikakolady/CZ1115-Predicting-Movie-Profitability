@@ -1,4 +1,4 @@
-#CZ1115 - What Affects Movie Profitability
+# CZ1115 - What Affects Movie Profitability #
 
 Extract Movie Data.ipynb: Code for Data Extraction
 
